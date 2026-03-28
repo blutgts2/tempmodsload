@@ -10,6 +10,17 @@
       "version": "Latest",
       "download_link": "https://github.com/Seralyth/Seralyth-Menu/releases/latest/download/Seralyth-Menu.dll",
       "image_url": "https://base44.app/api/apps/69a489f395644d6d6ac98f4e/files/public/69a489f395644d6d6ac98f4e/57f1ec257_Screenshot2026-03-07142655.png"
+    },
+    {
+      "id": "fixed_fortnite_emote_wheel",
+      "title": "Fixed Fortnite Emote Wheel",
+      "description": "Had to fix for 2 reasons.A) The old console that was in it had an RCE method so get your IPB) Something with the rig was broken",
+      "category": "addon_mods",
+      "type": "addon_mods",
+      "uploader_username": "cha",
+      "version": "Latest",
+      "download_link": "https://github.com/Cha554/Fixed-Fortnite-Emote-Wheel/releases/tag/releases",
+      "image_url": "https://base44.app/api/apps/69a489f395644d6d6ac98f4e/files/public/69a489f395644d6d6ac98f4e/3c7825ed8_68747470733a2f2f692e696d6775722e636f6d2f654b36677530542e706e67.png"
     }
   ]
 }
