@@ -1,6 +1,18 @@
 {
   "mods": [
     {
+      "id": "69b707b5b6acb0565dc478e0",
+      "title": "NEW Utilla > Bepinex",
+      "description": "Utilla Get modded lo...",
+      "category": "bepinex",
+      "version": "",
+      "uploader_username": "blu",
+      "uploader_name": "BluTheReal",
+      "download_link": "https://github.com/Seralyth/Utilla/releases/latest/download/Utilla.dll",
+      "image_url": "https://base44.app/api/apps/69a489f395644d6d6ac98f4e/files/mp/public/69a489f395644d6d6ac98f4e/55778799a_image.png",
+      "download_count": 90
+    },
+    {
       "id": "69ae57aa61738db8067fbea7",
       "title": "Fixed Fortnite Emote Wheel",
       "description": "Had to fix for 2 rea...",
