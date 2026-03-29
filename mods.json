@@ -58,7 +58,43 @@
       "uploader_name": "BluTheReal",
       "download_link": "https://github.com/Seralyth/Seralyth-Menu/releases/latest/download/Seralyth-Menu.dll",
       "image_url": "https://base44.app/api/apps/69a489f395644d6d6ac98f4e/files/public/69a489f395644d6d6ac98f4e/57f1ec257_Screenshot2026-03-07142655.png",
-      "download_count": 1349
+      "download_count": 1350
+    },
+    {
+      "id": "69abafb4992e80486935e4d7",
+      "title": "Self Tracker",
+      "description": "Self-Tracker\n\nℹ️Inst...",
+      "category": "addon_mods",
+      "version": "1.0",
+      "uploader_username": "menker",
+      "uploader_name": "Menker",
+      "download_link": "https://github.com/menker-cs/self-tracker/releases/latest/download/SelfTracker.dll",
+      "image_url": "https://base44.app/api/apps/69a489f395644d6d6ac98f4e/files/public/69a489f395644d6d6ac98f4e/2e73a25dc_481219146-d78724f5-8529-40da-b8f9-0bcd51c31b61.png",
+      "download_count": 16
+    },
+    {
+      "id": "69ab311ec339231b39077195",
+      "title": "Gorilla Notifications",
+      "description": "Notification Library...",
+      "category": "addon_mods",
+      "version": "1.0.2",
+      "uploader_username": "blu",
+      "uploader_name": "BluTheReal",
+      "download_link": "https://github.com/hamburbur-org/Gorilla-Notifications/releases/download/V1.0.2/GorillaNotifications.dll",
+      "image_url": "https://base44.app/api/apps/69a489f395644d6d6ac98f4e/files/public/69a489f395644d6d6ac98f4e/bb1920089_image.png",
+      "download_count": 16
+    },
+    {
+      "id": "69aa07fb790990c4e7293086",
+      "title": "Subscribe Button",
+      "description": "Adds a board to stum...",
+      "category": "addon_mods",
+      "version": "1.0.1",
+      "uploader_username": "blu",
+      "uploader_name": "BluTheReal",
+      "download_link": "https://github.com/kinomonke/GorillaSubscreen/releases/latest/download/GorillaSubscreen.dll",
+      "image_url": "https://base44.app/api/apps/69a489f395644d6d6ac98f4e/files/public/69a489f395644d6d6ac98f4e/b0118e8b9_Screenshot_2025-12-07_180631.webp",
+      "download_count": 63
     },
     {
       "id": "69a4f0c0c1fb6f11bf969d0e",
