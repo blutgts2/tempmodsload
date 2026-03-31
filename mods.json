@@ -25,7 +25,7 @@
     {
       "id": "69b4e5094af2fa32d4cc8efd",
       "title": "Spectral Menu",
-      "description": "Spectral Menu Made By Me \n\nThe images use my selected theme\n\nMy discord:\nhttps://discord.gg/mistt\n\n**Update Log**\nâ¨â¨â¨```diff\n+ ADDED\n\n* Test Op Stuff [Category]\n* Paintbrawl [Category]\n* CS Projectiles [Category in Fun Mods]\n* Test Mods [Category in OP Mods]\n* Menu Initialize Prompt\n* Stone Spawn Hoverboard Gun/All\n* Stone Asset Bundles\n* Fully Rewrote Menu\n* Change Button Sound\n* Change Menu Layout\n* Crash Room [In Test OP]\n* Revamped Soundboard [FULLY]\n* A Sound Library [To Get Sounds For The Soundboard]\n* Made Menu Detect As \"Grate\" In Mod Checkers\n* Quick Freeze Server\n* Light Freeze Server\n* Perm Freeze Server\n* Fake Oculus Menu\n\n\n+ FIXED\n\n* ESP Nametags [Made Visible]\n* Platforms And Colors \n* Antiban [MADE 100% Better]\n* Optimization\n* Fully Revamped Stone [My Admin System]\n\n\n+ SOON\n\n* Pets Of Mist\n* Kick Mods\n* Better Lag Mods\n\n- REMOVED\n\n* Friend System [Broke]\n* Steam Lag Gun\n* Steam Lag All\n* Dummy Methods\n* Memory Leaks\n* Useless Stuff (i dont know why its there, cough cough .  I SAID COUGH COUGH CHEEMZ -Nova)\n\nTotal Mods On The Menu\n        [354]\n\n\n```â©â©â©",
+      "description": "Spectral Menu Made By Me \n\nThe images use my selected theme\n\nMy discord:\nhttps://discord.gg/mistt\n\n**Update Log**\n⁨⁨⁨```diff\n+ ADDED\n\n* Test Op Stuff [Category]\n* Paintbrawl [Category]\n* CS Projectiles [Category in Fun Mods]\n* Test Mods [Category in OP Mods]\n* Menu Initialize Prompt\n* Stone Spawn Hoverboard Gun/All\n* Stone Asset Bundles\n* Fully Rewrote Menu\n* Change Button Sound\n* Change Menu Layout\n* Crash Room [In Test OP]\n* Revamped Soundboard [FULLY]\n* A Sound Library [To Get Sounds For The Soundboard]\n* Made Menu Detect As \"Grate\" In Mod Checkers\n* Quick Freeze Server\n* Light Freeze Server\n* Perm Freeze Server\n* Fake Oculus Menu\n\n\n+ FIXED\n\n* ESP Nametags [Made Visible]\n* Platforms And Colors \n* Antiban [MADE 100% Better]\n* Optimization\n* Fully Revamped Stone [My Admin System]\n\n\n+ SOON\n\n* Pets Of Mist\n* Kick Mods\n* Better Lag Mods\n\n- REMOVED\n\n* Friend System [Broke]\n* Steam Lag Gun\n* Steam Lag All\n* Dummy Methods\n* Memory Leaks\n* Useless Stuff (i dont know why its there, cough cough .  I SAID COUGH COUGH CHEEMZ -Nova)\n\nTotal Mods On The Menu\n        [354]\n\n\n```⁩⁩⁩",
       "category": "menus",
       "version": "7.2.0",
       "uploader_username": "cha",
@@ -124,7 +124,7 @@
     {
       "id": "69abafb4992e80486935e4d7",
       "title": "Self Tracker",
-      "description": "Self-Tracker\n\nâ¹ï¸Instructions\nâ Step 1**: Download the DLL and put it in your plugins folder\nâ Step 2: Open the game then close out of it once it fully loads\nâ Step 3**: Navigate to your `Gorilla Tag` folder then locate the folder named `SelfTracker`\nâ Step 4**: Replace the text in `webhook.txt` with your webhook url\nâ Step 5**: Replace the text in `name.txt` with your name",
+      "description": "Self-Tracker\n\nℹ️Instructions\n● Step 1**: Download the DLL and put it in your plugins folder\n● Step 2: Open the game then close out of it once it fully loads\n● Step 3**: Navigate to your `Gorilla Tag` folder then locate the folder named `SelfTracker`\n● Step 4**: Replace the text in `webhook.txt` with your webhook url\n● Step 5**: Replace the text in `name.txt` with your name",
       "category": "addon_mods",
       "version": "1.0",
       "uploader_username": "menker",
@@ -148,7 +148,7 @@
     {
       "id": "69ab311ec339231b39077195",
       "title": "Gorilla Notifications",
-      "description": "Notification Library for developers.\nHas lots of customization and easy to setup\n\n\nSource: https://github.com/hamburbur-org/Gorilla-Notifications>\nFor removal please contact me via discord ticket support discord.gg/blugt\n",
+      "description": "Notification Library for developers.\nHas lots of customization and easy to setup\n\n\nSource: https://github.com/hamburbur-org/Gorilla-Notifications>\nFor removal please contact me via discord ticket support discord.gg/blugt",
       "category": "addon_mods",
       "version": "1.0.2",
       "uploader_username": "blu",
@@ -206,12 +206,12 @@
       ],
       "desc_video_url": "",
       "desc_youtube_url": "",
-      "view_count": 2096,
+      "view_count": 2097,
       "is_paid": false,
       "price": "",
       "purchase_url": "",
       "created_date": "2026-03-02T02:06:56.016000",
-      "updated_date": "2026-03-31T14:34:35.550000"
+      "updated_date": "2026-03-31T15:20:47.741000"
     }
   ]
 }
