@@ -1,0 +1,50 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<OutputType>WinExe</OutputType>
+		<TargetFramework>net8.0-windows</TargetFramework>
+		<Nullable>enable</Nullable>
+		<UseWindowsForms>true</UseWindowsForms>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<AssemblyName>BluShopModManager</AssemblyName>
+		<RootNamespace>BluShopModManager</RootNamespace>
+		<StartupObject>BluShopModManager.Program</StartupObject>
+		<Company>Blushop</Company>
+		<Description>BluModManager install trusted mods for gorilla tag with a click of a button!</Description>
+		<ApplicationIcon>blumodmanager.ico</ApplicationIcon>
+
+		<!-- Single-file publish settings -->
+		<PublishSingleFile>true</PublishSingleFile>
+		<SelfContained>true</SelfContained>
+		<RuntimeIdentifier>win-x64</RuntimeIdentifier>
+		<PublishReadyToRun>true</PublishReadyToRun>
+		<IncludeNativeLibrariesForSelfExtract>true</IncludeNativeLibrariesForSelfExtract>
+		<EnableCompressionInSingleFile>true</EnableCompressionInSingleFile>
+		<DebugType>embedded</DebugType>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<None Remove="bepinexfiles\BepInExFiles.zip" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<Content Include="blumodmanager.ico">
+			<CopyToOutputDirectory>Always</CopyToOutputDirectory>
+		</Content>
+	</ItemGroup>
+
+	<ItemGroup>
+		<EmbeddedResource Include="bepinexfiles\BepInExFiles.zip" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<PackageReference Include="Microsoft.CSharp" Version="4.7.0" />
+		<PackageReference Include="System.Text.Json" Version="10.0.5" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<Compile Update="BepInExForm.cs" />
+		<Compile Update="SettingsForm.cs" />
+	</ItemGroup>
+
+</Project>
