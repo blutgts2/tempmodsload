@@ -41,12 +41,12 @@
       ],
       "desc_video_url": "",
       "desc_youtube_url": "https://www.youtube.com/watch?v=St2K-e8d1Vg",
-      "view_count": 2406,
+      "view_count": 2407,
       "is_paid": false,
       "price": "",
       "purchase_url": "",
       "created_date": "2026-03-14T04:33:13.303000",
-      "updated_date": "2026-04-01T22:18:00.916000"
+      "updated_date": "2026-04-01T22:22:48.503000"
     },
     {
       "id": "69af6151df9995ae453099b3",
@@ -114,12 +114,12 @@
       ],
       "desc_video_url": "",
       "desc_youtube_url": "https://youtu.be/ajM9cmWgzFE",
-      "view_count": 5047,
+      "view_count": 5048,
       "is_paid": false,
       "price": "",
       "purchase_url": "",
       "created_date": "2026-03-07T20:28:09.735000",
-      "updated_date": "2026-04-01T22:18:11.870000"
+      "updated_date": "2026-04-01T22:20:21.280000"
     },
     {
       "id": "69abafb4992e80486935e4d7",
@@ -206,12 +206,12 @@
       ],
       "desc_video_url": "",
       "desc_youtube_url": "",
-      "view_count": 2193,
+      "view_count": 2194,
       "is_paid": false,
       "price": "",
       "purchase_url": "",
       "created_date": "2026-03-02T02:06:56.016000",
-      "updated_date": "2026-04-01T21:57:21.981000"
+      "updated_date": "2026-04-01T22:23:42.124000"
     }
   ]
 }
