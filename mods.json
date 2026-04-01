@@ -106,7 +106,7 @@
       "uploader_name": "BluTheReal",
       "download_link": "https://github.com/Seralyth/Seralyth-Menu/releases/latest/download/Seralyth-Menu.dll",
       "image_url": "https://base44.app/api/apps/69a489f395644d6d6ac98f4e/files/public/69a489f395644d6d6ac98f4e/57f1ec257_Screenshot2026-03-07142655.png",
-      "download_count": 1539,
+      "download_count": 1540,
       "sub_category": "",
       "desc_images": [
         "https://base44.app/api/apps/69a489f395644d6d6ac98f4e/files/public/69a489f395644d6d6ac98f4e/149f5cb4a_image.png",
@@ -114,12 +114,12 @@
       ],
       "desc_video_url": "",
       "desc_youtube_url": "https://youtu.be/ajM9cmWgzFE",
-      "view_count": 4999,
+      "view_count": 5003,
       "is_paid": false,
       "price": "",
       "purchase_url": "",
       "created_date": "2026-03-07T20:28:09.735000",
-      "updated_date": "2026-04-01T17:20:51.758000"
+      "updated_date": "2026-04-01T17:29:18.288000"
     },
     {
       "id": "69abafb4992e80486935e4d7",
@@ -206,12 +206,12 @@
       ],
       "desc_video_url": "",
       "desc_youtube_url": "",
-      "view_count": 2174,
+      "view_count": 2175,
       "is_paid": false,
       "price": "",
       "purchase_url": "",
       "created_date": "2026-03-02T02:06:56.016000",
-      "updated_date": "2026-04-01T17:10:09.405000"
+      "updated_date": "2026-04-01T17:29:23.172000"
     }
   ]
 }
