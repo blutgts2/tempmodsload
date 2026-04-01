@@ -32,7 +32,7 @@
       "uploader_name": "Cha",
       "download_link": "https://github.com/Cha554/Spectral-BluShop-Download/releases/download/version/Spectral.Menu.dll",
       "image_url": "https://base44.app/api/apps/69a489f395644d6d6ac98f4e/files/mp/public/69a489f395644d6d6ac98f4e/4af3d0aff_Screenshot2026-03-26162035.png",
-      "download_count": 563,
+      "download_count": 564,
       "sub_category": "",
       "desc_images": [
         "https://base44.app/api/apps/69a489f395644d6d6ac98f4e/files/public/69a489f395644d6d6ac98f4e/39aaa4f36_Screenshot2026-03-12211248.png",
@@ -41,12 +41,12 @@
       ],
       "desc_video_url": "",
       "desc_youtube_url": "https://www.youtube.com/watch?v=H4BNpXez2nk",
-      "view_count": 2320,
+      "view_count": 2323,
       "is_paid": false,
       "price": "",
       "purchase_url": "",
       "created_date": "2026-03-14T04:33:13.303000",
-      "updated_date": "2026-04-01T18:33:41.673000"
+      "updated_date": "2026-04-01T18:37:03.228000"
     },
     {
       "id": "69af6151df9995ae453099b3",
@@ -199,19 +199,19 @@
       "uploader_name": "Menker",
       "download_link": "https://github.com/menker-cs/Elixir/releases/latest/download/Elixir.dll",
       "image_url": "https://base44.app/api/apps/69a489f395644d6d6ac98f4e/files/public/69a489f395644d6d6ac98f4e/595130753_ElixirLogoNew.png",
-      "download_count": 668,
+      "download_count": 669,
       "sub_category": "",
       "desc_images": [
         "https://base44.app/api/apps/69a489f395644d6d6ac98f4e/files/public/69a489f395644d6d6ac98f4e/1ac5a9e4e_Screenshot2026-01-13162358.png"
       ],
       "desc_video_url": "",
       "desc_youtube_url": "",
-      "view_count": 2180,
+      "view_count": 2183,
       "is_paid": false,
       "price": "",
       "purchase_url": "",
       "created_date": "2026-03-02T02:06:56.016000",
-      "updated_date": "2026-04-01T18:08:21.003000"
+      "updated_date": "2026-04-01T18:39:27.215000"
     }
   ]
 }
