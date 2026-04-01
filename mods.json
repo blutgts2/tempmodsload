@@ -32,7 +32,7 @@
       "uploader_name": "Cha",
       "download_link": "https://github.com/Cha554/Spectral-BluShop-Download/releases/download/version/Spectral.Menu.dll",
       "image_url": "https://base44.app/api/apps/69a489f395644d6d6ac98f4e/files/mp/public/69a489f395644d6d6ac98f4e/4af3d0aff_Screenshot2026-03-26162035.png",
-      "download_count": 576,
+      "download_count": 577,
       "sub_category": "",
       "desc_images": [
         "https://base44.app/api/apps/69a489f395644d6d6ac98f4e/files/public/69a489f395644d6d6ac98f4e/39aaa4f36_Screenshot2026-03-12211248.png",
@@ -41,12 +41,12 @@
       ],
       "desc_video_url": "",
       "desc_youtube_url": "https://www.youtube.com/watch?v=St2K-e8d1Vg",
-      "view_count": 2388,
+      "view_count": 2392,
       "is_paid": false,
       "price": "",
       "purchase_url": "",
       "created_date": "2026-03-14T04:33:13.303000",
-      "updated_date": "2026-04-01T21:48:42.683000"
+      "updated_date": "2026-04-01T21:52:48.889000"
     },
     {
       "id": "69af6151df9995ae453099b3",
@@ -114,12 +114,12 @@
       ],
       "desc_video_url": "",
       "desc_youtube_url": "https://youtu.be/ajM9cmWgzFE",
-      "view_count": 5041,
+      "view_count": 5044,
       "is_paid": false,
       "price": "",
       "purchase_url": "",
       "created_date": "2026-03-07T20:28:09.735000",
-      "updated_date": "2026-04-01T21:47:30.871000"
+      "updated_date": "2026-04-01T21:51:23.992000"
     },
     {
       "id": "69abafb4992e80486935e4d7",
@@ -206,12 +206,12 @@
       ],
       "desc_video_url": "",
       "desc_youtube_url": "",
-      "view_count": 2191,
+      "view_count": 2192,
       "is_paid": false,
       "price": "",
       "purchase_url": "",
       "created_date": "2026-03-02T02:06:56.016000",
-      "updated_date": "2026-04-01T21:41:26.220000"
+      "updated_date": "2026-04-01T21:51:04.975000"
     }
   ]
 }
