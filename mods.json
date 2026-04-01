@@ -15,12 +15,12 @@
       "desc_images": [],
       "desc_video_url": "",
       "desc_youtube_url": "",
-      "view_count": 312,
+      "view_count": 313,
       "is_paid": false,
       "price": "",
       "purchase_url": "",
       "created_date": "2026-03-15T19:25:41.703000",
-      "updated_date": "2026-04-01T17:44:59.851000"
+      "updated_date": "2026-04-01T20:11:01.478000"
     },
     {
       "id": "69b4e5094af2fa32d4cc8efd",
@@ -32,7 +32,7 @@
       "uploader_name": "Cha",
       "download_link": "https://github.com/Cha554/Spectral-BluShop-Download/releases/download/version/Spectral.Menu.dll",
       "image_url": "https://base44.app/api/apps/69a489f395644d6d6ac98f4e/files/mp/public/69a489f395644d6d6ac98f4e/4af3d0aff_Screenshot2026-03-26162035.png",
-      "download_count": 566,
+      "download_count": 575,
       "sub_category": "",
       "desc_images": [
         "https://base44.app/api/apps/69a489f395644d6d6ac98f4e/files/public/69a489f395644d6d6ac98f4e/39aaa4f36_Screenshot2026-03-12211248.png",
@@ -41,12 +41,12 @@
       ],
       "desc_video_url": "",
       "desc_youtube_url": "https://www.youtube.com/watch?v=H4BNpXez2nk",
-      "view_count": 2329,
+      "view_count": 2374,
       "is_paid": false,
       "price": "",
       "purchase_url": "",
       "created_date": "2026-03-14T04:33:13.303000",
-      "updated_date": "2026-04-01T19:07:12.289000"
+      "updated_date": "2026-04-01T20:43:30.516000"
     },
     {
       "id": "69af6151df9995ae453099b3",
@@ -106,7 +106,7 @@
       "uploader_name": "BluTheReal",
       "download_link": "https://github.com/Seralyth/Seralyth-Menu/releases/latest/download/Seralyth-Menu.dll",
       "image_url": "https://base44.app/api/apps/69a489f395644d6d6ac98f4e/files/public/69a489f395644d6d6ac98f4e/57f1ec257_Screenshot2026-03-07142655.png",
-      "download_count": 1544,
+      "download_count": 1549,
       "sub_category": "",
       "desc_images": [
         "https://base44.app/api/apps/69a489f395644d6d6ac98f4e/files/public/69a489f395644d6d6ac98f4e/149f5cb4a_image.png",
@@ -114,12 +114,12 @@
       ],
       "desc_video_url": "",
       "desc_youtube_url": "https://youtu.be/ajM9cmWgzFE",
-      "view_count": 5015,
+      "view_count": 5033,
       "is_paid": false,
       "price": "",
       "purchase_url": "",
       "created_date": "2026-03-07T20:28:09.735000",
-      "updated_date": "2026-04-01T19:09:21.364000"
+      "updated_date": "2026-04-01T20:38:21.622000"
     },
     {
       "id": "69abafb4992e80486935e4d7",
@@ -199,19 +199,19 @@
       "uploader_name": "Menker",
       "download_link": "https://github.com/menker-cs/Elixir/releases/latest/download/Elixir.dll",
       "image_url": "https://base44.app/api/apps/69a489f395644d6d6ac98f4e/files/public/69a489f395644d6d6ac98f4e/595130753_ElixirLogoNew.png",
-      "download_count": 669,
+      "download_count": 671,
       "sub_category": "",
       "desc_images": [
         "https://base44.app/api/apps/69a489f395644d6d6ac98f4e/files/public/69a489f395644d6d6ac98f4e/1ac5a9e4e_Screenshot2026-01-13162358.png"
       ],
       "desc_video_url": "",
       "desc_youtube_url": "",
-      "view_count": 2183,
+      "view_count": 2188,
       "is_paid": false,
       "price": "",
       "purchase_url": "",
       "created_date": "2026-03-02T02:06:56.016000",
-      "updated_date": "2026-04-01T18:39:27.215000"
+      "updated_date": "2026-04-01T20:44:25.194000"
     }
   ]
 }
