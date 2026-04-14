@@ -10,29 +10,29 @@
       "uploader_name": "BluTheReal",
       "download_link": "https://github.com/Seralyth/Utilla/releases/latest/download/Utilla.dll",
       "image_url": "https://base44.app/api/apps/69a489f395644d6d6ac98f4e/files/mp/public/69a489f395644d6d6ac98f4e/55778799a_image.png",
-      "download_count": 116,
+      "download_count": 218,
       "sub_category": "",
       "desc_images": [],
       "desc_video_url": "",
       "desc_youtube_url": "",
-      "view_count": 315,
+      "view_count": 567,
       "is_paid": false,
       "price": "",
       "purchase_url": "",
       "created_date": "2026-03-15T19:25:41.703000",
-      "updated_date": "2026-04-01T22:37:33.206000"
+      "updated_date": "2026-04-14T03:23:38.599000"
     },
     {
       "id": "69b4e5094af2fa32d4cc8efd",
       "title": "Spectral Menu",
-      "description": "Spectral Menu Made By Me - The images use my selected theme - My discord: - https://discord.gg/mistt - **Update Log** - ```diff - + ADDED - * Test Op Stuff [Category] - * Paintbrawl [Category] - * CS Projectiles [Category in Fun Mods] - * Test Mods [Category in OP Mods] - * Menu Initialize Prompt - * Stone Spawn Hoverboard Gun/All - * Stone Asset Bundles - * Fully Rewrote Menu - * Change Button Sound - * Change Menu Layout - * Crash Room [In Test OP] - * Revamped Soundboard [FULLY] - * A Sound Library [To Get Sounds For The Soundboard] - * Made Menu Detect As \"Grate\" In Mod Checkers - * Quick Freeze Server - * Light Freeze Server - * Perm Freeze Server - * Fake Oculus Menu - + FIXED - * ESP Nametags [Made Visible] - * Platforms And Colors - * Antiban [MADE 100% Better] - * Optimization - * Fully Revamped Stone [My Admin System] - + SOON - * Pets Of Mist - * Kick Mods - * Better Lag Mods - - REMOVED - * Friend System [Broke] - * Steam Lag Gun - * Steam Lag All - * Dummy Methods - * Memory Leaks - * Useless Stuff (i dont know why its there, cough cough .  I SAID COUGH COUGH CHEEMZ -Nova) - Total Mods On The Menu - [354] - ```",
+      "description": "Spectral Menu Made By Me - The images use my selected theme there are 203 different themes! - My discord: - https://discord.gg/mistt - updated 4/12/26 - **Update Log** - ```diff - + ADDED - * Kick Gun/All V2 (8 Sec) - * Kick Gun/All V3 (6 Sec) - * Kick Gun/All V4 (11 Sec) - * Kick On Touch - * More Sounds To Sound Library - + FIXED - * Kick Gun/All (V1) - * Menu Lag Some More - * Made Barrel Fling Better - - REMOVED - * Kick All Stump (Stopped Working) - Total Mods On The Menu - [367] - ```",
       "category": "menus",
-      "version": "7.2.0",
+      "version": "7.3.5",
       "uploader_username": "cha",
       "uploader_name": "Cha",
       "download_link": "https://github.com/Cha554/Spectral-BluShop-Download/releases/download/version/Spectral.Menu.dll",
       "image_url": "https://base44.app/api/apps/69a489f395644d6d6ac98f4e/files/mp/public/69a489f395644d6d6ac98f4e/4af3d0aff_Screenshot2026-03-26162035.png",
-      "download_count": 590,
+      "download_count": 1624,
       "sub_category": "",
       "desc_images": [
         "https://base44.app/api/apps/69a489f395644d6d6ac98f4e/files/public/69a489f395644d6d6ac98f4e/39aaa4f36_Screenshot2026-03-12211248.png",
@@ -41,12 +41,12 @@
       ],
       "desc_video_url": "",
       "desc_youtube_url": "https://www.youtube.com/watch?v=St2K-e8d1Vg",
-      "view_count": 2434,
+      "view_count": 5915,
       "is_paid": false,
       "price": "",
       "purchase_url": "",
       "created_date": "2026-03-14T04:33:13.303000",
-      "updated_date": "2026-04-01T23:22:52.334000"
+      "updated_date": "2026-04-14T03:12:24.184000"
     },
     {
       "id": "69af6151df9995ae453099b3",
@@ -58,19 +58,19 @@
       "uploader_name": "Cha",
       "download_link": "https://github.com/Cha554/Updated-WalkSim/releases/download/3.0.0/WalkSim.dll",
       "image_url": "https://base44.app/api/apps/69a489f395644d6d6ac98f4e/files/public/69a489f395644d6d6ac98f4e/ed001ede9_Screenshot2026-03-09200923.png",
-      "download_count": 118,
+      "download_count": 234,
       "sub_category": "",
       "desc_images": [
         "https://base44.app/api/apps/69a489f395644d6d6ac98f4e/files/public/69a489f395644d6d6ac98f4e/12bd4eb7c_68747470733a2f2f692e696d6775722e636f6d2f3132714e6243742e706e67.png"
       ],
       "desc_video_url": "",
       "desc_youtube_url": "",
-      "view_count": 353,
+      "view_count": 667,
       "is_paid": false,
       "price": "",
       "purchase_url": "",
       "created_date": "2026-03-10T00:09:53.730000",
-      "updated_date": "2026-04-01T23:16:01.623000"
+      "updated_date": "2026-04-14T03:04:49.525000"
     },
     {
       "id": "69ae57aa61738db8067fbea7",
@@ -82,19 +82,19 @@
       "uploader_name": "Cha",
       "download_link": "https://github.com/Cha554/Fixed-Fortnite-Emote-Wheel/releases/download/releases/FortniteEmoteWheel.dll",
       "image_url": "https://base44.app/api/apps/69a489f395644d6d6ac98f4e/files/public/69a489f395644d6d6ac98f4e/3c7825ed8_68747470733a2f2f692e696d6775722e636f6d2f654b36677530542e706e67.png",
-      "download_count": 152,
+      "download_count": 281,
       "sub_category": "",
       "desc_images": [
         "https://base44.app/api/apps/69a489f395644d6d6ac98f4e/files/public/69a489f395644d6d6ac98f4e/4b1665ff3_68747470733a2f2f692e696d6775722e636f6d2f654b36677530542e706e67.png"
       ],
       "desc_video_url": "",
       "desc_youtube_url": "",
-      "view_count": 423,
+      "view_count": 772,
       "is_paid": false,
       "price": "",
       "purchase_url": "",
       "created_date": "2026-03-09T05:16:26.102000",
-      "updated_date": "2026-04-01T23:15:25.497000"
+      "updated_date": "2026-04-14T03:08:01.641000"
     },
     {
       "id": "69ac8a596cd7e4685aca6251",
@@ -106,7 +106,7 @@
       "uploader_name": "BluTheReal",
       "download_link": "https://github.com/Seralyth/Seralyth-Menu/releases/latest/download/Seralyth-Menu.dll",
       "image_url": "https://base44.app/api/apps/69a489f395644d6d6ac98f4e/files/public/69a489f395644d6d6ac98f4e/57f1ec257_Screenshot2026-03-07142655.png",
-      "download_count": 1556,
+      "download_count": 2471,
       "sub_category": "",
       "desc_images": [
         "https://base44.app/api/apps/69a489f395644d6d6ac98f4e/files/public/69a489f395644d6d6ac98f4e/149f5cb4a_image.png",
@@ -114,12 +114,12 @@
       ],
       "desc_video_url": "",
       "desc_youtube_url": "https://youtu.be/ajM9cmWgzFE",
-      "view_count": 5059,
+      "view_count": 8728,
       "is_paid": false,
       "price": "",
       "purchase_url": "",
       "created_date": "2026-03-07T20:28:09.735000",
-      "updated_date": "2026-04-01T23:09:12.795000"
+      "updated_date": "2026-04-14T03:22:55.299000"
     },
     {
       "id": "69abafb4992e80486935e4d7",
@@ -131,19 +131,19 @@
       "uploader_name": "Menker",
       "download_link": "https://github.com/menker-cs/self-tracker/releases/latest/download/SelfTracker.dll",
       "image_url": "https://base44.app/api/apps/69a489f395644d6d6ac98f4e/files/public/69a489f395644d6d6ac98f4e/2e73a25dc_481219146-d78724f5-8529-40da-b8f9-0bcd51c31b61.png",
-      "download_count": 16,
+      "download_count": 29,
       "sub_category": "",
       "desc_images": [
         "https://base44.app/api/apps/69a489f395644d6d6ac98f4e/files/public/69a489f395644d6d6ac98f4e/a4a8e5062_481219146-d78724f5-8529-40da-b8f9-0bcd51c31b61.png"
       ],
       "desc_video_url": "",
       "desc_youtube_url": "",
-      "view_count": 113,
+      "view_count": 173,
       "is_paid": false,
       "price": "",
       "purchase_url": "",
       "created_date": "2026-03-07T04:55:16.392000",
-      "updated_date": "2026-04-01T22:05:04.363000"
+      "updated_date": "2026-04-14T01:07:26.661000"
     },
     {
       "id": "69ab311ec339231b39077195",
@@ -155,17 +155,17 @@
       "uploader_name": "BluTheReal",
       "download_link": "https://github.com/hamburbur-org/Gorilla-Notifications/releases/download/V1.0.2/GorillaNotifications.dll",
       "image_url": "https://base44.app/api/apps/69a489f395644d6d6ac98f4e/files/public/69a489f395644d6d6ac98f4e/bb1920089_image.png",
-      "download_count": 18,
+      "download_count": 25,
       "sub_category": "",
       "desc_images": [],
       "desc_video_url": "",
       "desc_youtube_url": "",
-      "view_count": 94,
+      "view_count": 130,
       "is_paid": false,
       "price": "",
       "purchase_url": "",
       "created_date": "2026-03-06T19:55:10.037000",
-      "updated_date": "2026-04-01T18:45:42.292000"
+      "updated_date": "2026-04-13T16:50:49.489000"
     },
     {
       "id": "69aa07fb790990c4e7293086",
@@ -177,17 +177,17 @@
       "uploader_name": "BluTheReal",
       "download_link": "https://github.com/kinomonke/GorillaSubscreen/releases/latest/download/GorillaSubscreen.dll",
       "image_url": "https://base44.app/api/apps/69a489f395644d6d6ac98f4e/files/public/69a489f395644d6d6ac98f4e/b0118e8b9_Screenshot_2025-12-07_180631.webp",
-      "download_count": 73,
+      "download_count": 119,
       "sub_category": "",
       "desc_images": [],
       "desc_video_url": "",
       "desc_youtube_url": "",
-      "view_count": 143,
+      "view_count": 245,
       "is_paid": false,
       "price": "",
       "purchase_url": "",
       "created_date": "2026-03-05T22:47:23.139000",
-      "updated_date": "2026-04-01T18:46:31.003000"
+      "updated_date": "2026-04-14T03:26:26.691000"
     },
     {
       "id": "69a4f0c0c1fb6f11bf969d0e",
@@ -199,19 +199,19 @@
       "uploader_name": "Menker",
       "download_link": "https://github.com/menker-cs/Elixir/releases/latest/download/Elixir.dll",
       "image_url": "https://base44.app/api/apps/69a489f395644d6d6ac98f4e/files/public/69a489f395644d6d6ac98f4e/595130753_ElixirLogoNew.png",
-      "download_count": 676,
+      "download_count": 1039,
       "sub_category": "",
       "desc_images": [
         "https://base44.app/api/apps/69a489f395644d6d6ac98f4e/files/public/69a489f395644d6d6ac98f4e/1ac5a9e4e_Screenshot2026-01-13162358.png"
       ],
       "desc_video_url": "",
       "desc_youtube_url": "",
-      "view_count": 2201,
+      "view_count": 3818,
       "is_paid": false,
       "price": "",
       "purchase_url": "",
       "created_date": "2026-03-02T02:06:56.016000",
-      "updated_date": "2026-04-01T23:15:26.022000"
+      "updated_date": "2026-04-14T02:59:46.011000"
     }
   ]
 }
